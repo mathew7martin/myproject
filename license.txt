@@ -176,3 +176,4 @@
 	END OF TERMS AND CONDITIONS
 testing on automation
 testing on automation01
+testing on deployment
